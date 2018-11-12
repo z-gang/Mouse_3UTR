@@ -52,3 +52,5 @@ cd $LS_SUBCWD
 
 ### Calling peaks
 Rscript PeakCalling.mouse.r
+
+### for the results, only keep those peaks supported by at least 60 reads
